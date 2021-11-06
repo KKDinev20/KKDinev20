@@ -6,16 +6,15 @@
 <img align="right" height="250" width="250" alt="" src="https://c.tenor.com/wiaZ6eyf11QAAAAM/hello-hi.gif" />
 
 ## Personal stuff:
--  :computer: &nbsp; I am studying at VSPCI in Burgas 
--  :mag: &nbsp; I am looking for teammates for upcoming projects 
--  :chart_with_downwards_trend: &nbsp;*_Wasting my time being a discord mod(in 3 servers so far)_* 
--  :roll_eyes: &nbsp; I have hobbies like reading and listening to music.
+-  ✧:computer: &nbsp; I am studying at VSPCI in Burgas 
+-  ✧:mag: &nbsp; I am looking for teammates for upcoming projects 
+-  ✧:chart_with_downwards_trend: &nbsp; I have hobbies like reading and listening to music. 
 
 <hr>
 
 ### Connect to me:
 
-<a href ="https://www.spotify.com" ><img align="left" alt="fb" width="22px" src="https://www.jsdelivr.com/package/npm/spotify" /><a/>
+<a href ="https://www.spotify.com/us/account" ><img align="left" alt="fb" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" /><a/>
 <img align="left" alt="https://outlook.office.com/mail/inbox" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 <img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
