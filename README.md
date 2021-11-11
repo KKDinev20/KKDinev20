@@ -31,7 +31,7 @@
   <details>
   <summary><b>⚡ Github Stats</b></summary><br>
 
-![Grade](https://github-readme-stats.vercel.app/api?username=vvbolashikova20&show_icons=true&theme=radical&count_private=true)
+![Grade](https://github-readme-stats.vercel.app/api?username=kkdinev20&show_icons=true&theme=radical&count_private=true)
 </details>
 
 <details style = "display: inline;">
