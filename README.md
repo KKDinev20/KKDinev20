@@ -5,11 +5,9 @@
 <h1>Personal stuff:</h1>
 <ul>
 <h3>
-  <li>Nice to meet you, call me Stan :star_struck:</li><br>
   <li>Studying in VSPCI :school:</li><br>
-  <li>Interested in Video editing 	:vhs:</li><br>
-  <li>Available on Spotify 24/7 :headphones:</li><br>
   <li>Wants to be a Java developer :desktop_computer:</li><br>
+  <li>Currently learning C++, Java, HTML, CSS and JS ⚙</li> <br>
  </h3>
  </ul>
 <h1>Connections:</h1>
@@ -25,11 +23,10 @@
   <img align="left" height="55" src="https://www.freeiconspng.com/uploads/c--logo-icon-0.png" />
   <br><br>
 <h1>Tools:</h1>
-  <img align="left" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
   <img align="left" height="50" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
   <img align="left" height="50" src="https://cdn.discordapp.com/attachments/941026316482936902/980911528268148846/After_Effect_Logo.png" />
   <img align="left" height="50" src="https://www.pngkey.com/png/full/250-2508717_wondershare-filmora-wondershare-filmora-logo-png.png" />
-  <img align="left" height="50" src="https://cdn.discordapp.com/attachments/941026316482936902/980912294655582208/unknown.png" />
+  <img align="left" height="50" src="https://cdn.discordapp.com/attachments/941026316482936902/1038191505095012352/unknown.png" />
 <br><br>
 <h1>Grade:</h1>
   <img src = "https://github-readme-stats.vercel.app/api?username=kkdinev20&show_icons=true&theme=radical&count_private=true"/>
