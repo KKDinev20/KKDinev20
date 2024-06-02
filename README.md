@@ -2,7 +2,7 @@
 <h1>Personal stuff:</h1>
 <ul>
 <h3>
-  <li>Studying in VSPCI :school:</li><br>
+  <li>Studying in VSCPI :school:</li><br>
   <li>Wannabe Java developer :desktop_computer:</li><br>
   <li>Currently learning C++, Java, HTML, CSS and JS ⚙</li> <br>
  </h3>
@@ -47,10 +47,6 @@
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
   ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
 
-## 📈 GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkdinev20)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 🥇 Badges
 ### Office 365
 | **Badges**   | **Technology**       | **Badge Image**                                                                                       |
@@ -66,7 +62,6 @@
 | Programming  | JavaScript Essentials 1 | <img src="https://images.credly.com/size/110x110/images/b93bf373-3da6-4ada-9879-a0c39d6a11f8/image.png" width="120px" height="120px"> |
 | Programming  | Python Essentials 1 | <img src="https://images.credly.com/size/340x340/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" width="120px" height="120px"> |
 | Programming  | Python Essentials 2 | <img src="https://images.credly.com/size/340x340/images/3f802526-7274-4230-91ab-f6d1a35340e6/image.png" width="120px" height="120px"> |
-| Programming  | Python Essentials 2 | <img src="https://images.credly.com/size/340x340/images/3f802526-7274-4230-91ab-f6d1a35340e6/image.png" width="120px" height="120px"> |
 
 ### 🛠️ Hardware
 | **Badges**   | **Technology**       | **Badge Image**                                                                                       |
@@ -76,7 +71,7 @@
 | Hardware  | Computer Hardware Basics    | <img src="https://images.credly.com/size/340x340/images/19e742ef-13be-4d26-87ed-ac8f5fd0643c/image.png" width="120px" height="120px"> |
 | Hardware  | Introduction to Cybersecurity   | <img src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="120px" height="120px"> |
 
-### 📚 Hardware
+### 📚 Miscellaneous
 | **Badges**   | **Technology**       | **Badge Image**                                                                                       |
 |--------------|----------------------|-------------------------------------------------------------------------------------------------------| 
 | English  | English for IT 1   | <img src="https://images.credly.com/images/77b1ea15-6287-4d97-8ecd-c5afa2d137ea/image.png" width="120px" height="120px"> |
