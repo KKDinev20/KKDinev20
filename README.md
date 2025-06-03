@@ -65,8 +65,11 @@
   <a href="https://github.com/kkdinev20"  style = "padding-right: 10px">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kkdinev20&repo=all-events&theme=radical&icon_color=ff3131&title_color=0066ff" />
   </a>
-  <a href="https://github.com/kkdinev20">
+  <a href="https://github.com/kkdinev20" style = "padding-right: 10px">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kkdinev20&repo=optimed&theme=radical&icon_color=ff3131&title_color=0066ff" />
+  </a>
+  <a href="https://github.com/kkdinev20">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kkdinev20&repo=zira-2.0&theme=radical&icon_color=ff3131&title_color=0066ff" />
   </a>
 </p>
 
