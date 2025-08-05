@@ -7,8 +7,8 @@
 
 <p align="center">
   <a href="mailto:konstantindinv@gmail.com"><img src="https://img.shields.io/badge/Gmail-ff3131?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/konstantin-dinev-37403b274/"><img src="https://img.shields.io/badge/LinkedIn-0066ff?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://discordapp.com/users/yourdiscordid"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/konstantin-dinev-8bb867369/"><img src="https://img.shields.io/badge/LinkedIn-0066ff?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://discordapp.com/users/941021561039749141"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
 
 ---
@@ -66,7 +66,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kkdinev20&repo=all-events&theme=radical&icon_color=ff3131&title_color=0066ff" />
   </a>
   <a href="https://github.com/kkdinev20" style = "padding-right: 10px">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kkdinev20&repo=optimed&theme=radical&icon_color=ff3131&title_color=0066ff" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kkdinev20&repo=OptiMed&theme=radical&icon_color=ff3131&title_color=0066ff" />
   </a>
   <a href="https://github.com/kkdinev20">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kkdinev20&repo=zira-2.0&theme=radical&icon_color=ff3131&title_color=0066ff" />
