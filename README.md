@@ -2,7 +2,7 @@
 
 <div style="font-family: Lato">
 <p align="center">
-  🧬 Student @ VSCPI &nbsp; | &nbsp; Java Dev in Progress &nbsp; | &nbsp; Breaking & Rebuilding Code | &nbsp; Searching hope in Go
+  🧬 Student @ Saxion Hogeschool &nbsp; | &nbsp; Java Dev in Progress &nbsp; | &nbsp; Breaking & Rebuilding Code | &nbsp; Searching hope in Go
 </p>
 
 <p align="center">
